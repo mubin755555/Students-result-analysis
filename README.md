@@ -68,10 +68,11 @@ plt.show()
 ![Screenshot 2024-10-30 000157](https://github.com/user-attachments/assets/b005b708-0aa2-4797-a670-b5ce169a2283)
 ## Step 4: Visualization of Trends
 Include visualizations that compare performance by age, gender, etc.
-Add Screenshots of each visualization with brief explanations.
+![Screenshot 2024-10-30 000235](https://github.com/user-attachments/assets/c50de978-fb5c-42d7-af74-6d64699834ad)
+
 ## Step 5: Conclusions and Insights
 Summarize findings and highlight key insights.
-Screenshot of conclusion or insight summary.
+![Screenshot 2024-10-30 000257](https://github.com/user-attachments/assets/5f679f9b-533e-4029-9fb7-7b3041188e1e)
 
 
 This README and code manual should provide a solid foundation for your GitHub project and help others follow along with screenshots from your browser. Let me know if you'd like further customization!
