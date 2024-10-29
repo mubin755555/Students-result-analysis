@@ -19,6 +19,9 @@ This repository contains a data analysis project focused on analyzing students' 
 The objective of this project is to analyze a dataset containing students' scores and other related data to identify key trends, insights, and factors that contribute to performance. The analysis involves data preprocessing, exploration, and visualization to understand relationships within the data.
 
 ## Dataset
+data = pd.read_csv('student_scores.csv')
+data.head()
+
 The dataset, `student_scores.csv`, contains the following columns:
 - **Student ID**: Unique identifier for each student
 - **Subject**: Name of the subject
@@ -52,3 +55,29 @@ The analysis consists of:
 1. Clone this repository:
    ```bash
    git clone https://github.com/mubin755555/students-result-analysis.git
+## Step 2: Data Cleaning
+Describe the process of handling missing values, filtering outliers, and adjusting data formats.
+Screenshot of data cleaning steps.
+## Step 3: Exploratory Data Analysis (EDA)
+Distribution of Scores: Plot histograms or boxplots for score distributions.
+sns.histplot(data['Score'], bins=10)
+plt.title('Score Distribution')
+plt.show()
+## Class and Subject Analysis: Analyze performance across classes and subjects.
+
+Screenshot of class-based or subject-based analysis visualizations.
+## Step 4: Visualization of Trends
+Include visualizations that compare performance by age, gender, etc.
+Add Screenshots of each visualization with brief explanations.
+## Step 5: Conclusions and Insights
+Summarize findings and highlight key insights.
+Screenshot of conclusion or insight summary.
+
+
+This README and code manual should provide a solid foundation for your GitHub project and help others follow along with screenshots from your browser. Let me know if you'd like further customization!
+
+## Conclusion
+This project provides a comprehensive analysis of students' performance, offering valuable insights into factors influencing results. Further exploration could include predictive modeling to assist in educational planning.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any changes.
