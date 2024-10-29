@@ -65,7 +65,7 @@ plt.title('Score Distribution')
 plt.show()
 ## Class and Subject Analysis: Analyze performance across classes and subjects.
 
-Screenshot of class-based or subject-based analysis visualizations.
+![Screenshot 2024-10-30 000157](https://github.com/user-attachments/assets/b005b708-0aa2-4797-a670-b5ce169a2283)
 ## Step 4: Visualization of Trends
 Include visualizations that compare performance by age, gender, etc.
 Add Screenshots of each visualization with brief explanations.
